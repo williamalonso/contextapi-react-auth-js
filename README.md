@@ -25,7 +25,6 @@ This project was developed with the following techs:
 - [ContextAPI](https://legacy.reactjs.org/docs/context.html#api)
 - [React Router](https://reactrouter.com/en/main)
 - [Tailwind](https://tailwindcss.com)
-- [TypeScript](https://www.typescriptlang.org)
 
 ---
 
@@ -49,7 +48,7 @@ If you wish, clone or download this repositry:
 
 ```
 # Clone the repository
-$ git clone git@github.com:williamalonso/contextapi-react-auth.git
+$ git clone git@github.com:williamalonso/contextapi-react-auth-js.git
 ```
 
 After downloading or cloning, run the command `npm i`.
