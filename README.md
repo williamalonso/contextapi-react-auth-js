@@ -13,7 +13,7 @@
 
 ### 🤔 About the Project?
 
-It's about implementing an authentication system with React ContextAPI using TypeScript
+It's about implementing an authentication system with React ContextAPI
 
 ---
 
