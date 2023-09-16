@@ -23,7 +23,6 @@ This project was developed with the following techs:
 
 - [React](https://react.dev/)
 - [ContextAPI](https://legacy.reactjs.org/docs/context.html#api)
-- [Styled Component](https://styled-components.com/)
 - [React Router](https://reactrouter.com/en/main)
 - [Tailwind](https://tailwindcss.com)
 - [TypeScript](https://www.typescriptlang.org)
@@ -35,15 +34,12 @@ This project was developed with the following techs:
 - We're using ContextAPI to pass data between components;
 - We have a Login page;
 - We have a Home page;
-- We are using TypeScript;
 
 ---
 
 ## 🙅 Instalation and uses
 
 The React version is `18.2.0`.
-
-The Styled-Component version is `6.0.5`;
 
 The Router version is `6.14.2`;
 
@@ -53,7 +49,7 @@ If you wish, clone or download this repositry:
 
 ```
 # Clone the repository
-$ git clone git@github.com:williamalonso/contextapi-react-auth-ts.git
+$ git clone git@github.com:williamalonso/contextapi-react-auth.git
 ```
 
 After downloading or cloning, run the command `npm i`.
